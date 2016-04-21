@@ -13,6 +13,7 @@ public class TestAnonymousUser extends TestRoot {
 	public void before() {
 		if (!setup()) {
 			Assert.fail("Could not load driver");
+			Assert.fail("Could not load driver");
 		}
 	}
 
