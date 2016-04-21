@@ -1,0 +1,15 @@
+### Android properties local (edit this) ###
+### PLEASE EDIT THIS FILE ###
+
+APPIUM.USEEMULATOR=FALSE
+
+APPIUM.DEVICE.NAME=SCH-1545
+APPIUM.DEVICE.MODEL=Samsung S4
+APPIUM.DEVICE.PLATFORMVERSION=5.0.1
+
+APPIUM.APP.PATH=/Users/uanjum/Downloads/iHeartRadioConnect-google-AMPProd-release-1.9.0-909.apk
+APPIUM.APP.PACKAGE=com.clearchannel.iheartradio.connect
+
+APPIUM.WEBDRIVER.URL=localhost
+APPIUM.WEBDRIVER.PORT=4723
+
