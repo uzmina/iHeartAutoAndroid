@@ -6,6 +6,7 @@ build/
 .gradle/
 .metadata
 target/
+test-output/
 
 *.project
 .DS_STORE
